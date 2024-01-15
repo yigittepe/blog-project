@@ -1,0 +1,25 @@
+.container {
+    max-width: 600px; /* Adjust the value as needed */
+}
+
+.card-title {
+    font-size: 1.5em;
+}
+
+.card-content {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.card-time {
+    color: #777;
+    margin-top: 10px;
+}
+
+.read-more-btn {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+
+
